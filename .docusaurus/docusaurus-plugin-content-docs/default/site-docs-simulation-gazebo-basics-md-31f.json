@@ -1,0 +1,26 @@
+{
+  "id": "simulation/gazebo_basics",
+  "title": "Gazebo Simulation Setup",
+  "description": "This chapter will guide you through setting up and using Gazebo, a powerful 3D robot simulator, for simulating humanoid robots. We will cover how to launch Gazebo, import URDF models, and interact with the simulated environment.",
+  "source": "@site/docs/simulation/gazebo_basics.md",
+  "sourceDirName": "simulation",
+  "slug": "/simulation/gazebo_basics",
+  "permalink": "/docs/simulation/gazebo_basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/simulation/gazebo_basics.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "This file serves as a placeholder for a Unity project for humanoid simulation.",
+    "permalink": "/docs/simulation/examples/unity_humanoid_project/"
+  },
+  "next": {
+    "title": "Simulation: Overview",
+    "permalink": "/docs/simulation/overview"
+  }
+}

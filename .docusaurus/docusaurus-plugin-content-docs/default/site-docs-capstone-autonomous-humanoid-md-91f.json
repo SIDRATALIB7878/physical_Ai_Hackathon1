@@ -1,0 +1,26 @@
+{
+  "id": "capstone/autonomous_humanoid",
+  "title": "Capstone Project: Autonomous Humanoid - Fetch a Beverage",
+  "description": "This chapter presents the culminating capstone project: developing an autonomous humanoid robot capable of understanding a high-level natural language command and executing a complex sequence of actions to \"fetch a beverage from a simulated fridge.\" This project integrates concepts and technologies from all previous chapters, including ROS 2, Isaac Sim, AI perception, navigation, and Vision-Language-Action (VLA) pipelines.",
+  "source": "@site/docs/capstone/autonomous_humanoid.md",
+  "sourceDirName": "capstone",
+  "slug": "/capstone/autonomous_humanoid",
+  "permalink": "/docs/capstone/autonomous_humanoid",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/capstone/autonomous_humanoid.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Capstone",
+    "permalink": "/docs/category/capstone"
+  },
+  "next": {
+    "title": "Capstone: Autonomous Humanoid - Overview",
+    "permalink": "/docs/capstone/overview"
+  }
+}

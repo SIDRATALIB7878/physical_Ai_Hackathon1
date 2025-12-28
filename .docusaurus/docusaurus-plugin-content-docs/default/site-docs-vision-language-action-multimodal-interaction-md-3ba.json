@@ -1,0 +1,26 @@
+{
+  "id": "vision_language_action/multimodal_interaction",
+  "title": "Multimodal Interaction Strategies",
+  "description": "This chapter delves into strategies for creating richer and more intuitive human-robot interaction by integrating multiple sensory modalities, primarily vision and natural language. We will explore how combining these inputs can enhance a robot's understanding and response capabilities, focusing on the concept of visual grounding.",
+  "source": "@site/docs/vision_language_action/multimodal_interaction.md",
+  "sourceDirName": "vision_language_action",
+  "slug": "/vision_language_action/multimodal_interaction",
+  "permalink": "/docs/vision_language_action/multimodal_interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/vision_language_action/multimodal_interaction.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Vision-Language-Action",
+    "permalink": "/docs/category/vision-language-action"
+  },
+  "next": {
+    "title": "Vision-Language-Action (VLA): Overview",
+    "permalink": "/docs/vision_language_action/overview"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "contributing",
+  "title": "Contributing to the Book: Citation Guidelines",
+  "description": "This document outlines the guidelines for managing and formatting citations within the \"Physical AI & Humanoid Robotics Capstone Project\" book, adhering strictly to APA 7th edition style.",
+  "source": "@site/docs/contributing.md",
+  "sourceDirName": ".",
+  "slug": "/contributing",
+  "permalink": "/docs/contributing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/contributing.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "OpenAI Agents SDK - Python",
+    "permalink": "/docs/agent_sdk_docs"
+  },
+  "next": {
+    "title": "Book Content Embeddings Pipeline Guide",
+    "permalink": "/docs/pipeline-guide"
+  }
+}

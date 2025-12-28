@@ -1,0 +1,29 @@
+{
+  "id": "systems/ros2_intro",
+  "title": "Introduction to ROS 2",
+  "description": "The Robot Operating System (ROS) is a flexible framework for writing robot software. It is a collection of tools, libraries, and conventions that aim to simplify the task of creating complex and robust robot behavior across a wide variety of robotic platforms. ROS 2 is a complete redesign of the original ROS, built to support new use cases like multi-robot systems, real-time control, and small embedded systems.",
+  "source": "@site/docs/systems/ros2_intro.md",
+  "sourceDirName": "systems",
+  "slug": "/systems/ros2_intro",
+  "permalink": "/docs/systems/ros2_intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/systems/ros2_intro.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Systems",
+    "permalink": "/docs/category/systems"
+  },
+  "next": {
+    "title": "Systems: Overview",
+    "permalink": "/docs/systems/overview"
+  }
+}

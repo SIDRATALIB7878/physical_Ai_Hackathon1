@@ -1,0 +1,26 @@
+{
+  "id": "vision_language_action/overview",
+  "title": "Vision-Language-Action (VLA): Overview",
+  "description": "Learning Objectives",
+  "source": "@site/docs/vision_language_action/overview.md",
+  "sourceDirName": "vision_language_action",
+  "slug": "/vision_language_action/overview",
+  "permalink": "/docs/vision_language_action/overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/vision_language_action/overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Multimodal Interaction Strategies",
+    "permalink": "/docs/vision_language_action/multimodal_interaction"
+  },
+  "next": {
+    "title": "Whisper and LLMs for Conversational Robotics",
+    "permalink": "/docs/vision_language_action/whisper_llm"
+  }
+}

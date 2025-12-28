@@ -1,0 +1,26 @@
+{
+  "id": "agent_sdk_docs",
+  "title": "OpenAI Agents SDK - Python",
+  "description": "The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows in Python. It provides a provider-agnostic approach to orchestrating LLM-based agents, supporting the OpenAI Responses and Chat Completions APIs, as well as 100+ other LLM providers through integrations like LiteLLM. The SDK is designed to handle complex agent interactions with minimal boilerplate code, enabling developers to focus on building intelligent, tool-enabled agents rather than managing low-level API calls and conversation history.",
+  "source": "@site/docs/agent_sdk_docs.md",
+  "sourceDirName": ".",
+  "slug": "/agent_sdk_docs",
+  "permalink": "/docs/agent_sdk_docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/agent_sdk_docs.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Capstone: Autonomous Humanoid - Overview",
+    "permalink": "/docs/capstone/overview"
+  },
+  "next": {
+    "title": "Contributing to the Book: Citation Guidelines",
+    "permalink": "/docs/contributing"
+  }
+}

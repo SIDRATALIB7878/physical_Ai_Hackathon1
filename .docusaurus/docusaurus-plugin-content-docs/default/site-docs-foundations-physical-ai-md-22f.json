@@ -1,0 +1,29 @@
+{
+  "id": "foundations/physical_ai",
+  "title": "Physical AI: A Primer",
+  "description": "Definition",
+  "source": "@site/docs/foundations/physical_ai.md",
+  "sourceDirName": "foundations",
+  "slug": "/foundations/physical_ai",
+  "permalink": "/docs/foundations/physical_ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/foundations/physical_ai.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Foundations",
+    "permalink": "/docs/category/foundations"
+  },
+  "next": {
+    "title": "Conceptual Diagrams for Book Foundations",
+    "permalink": "/docs/foundations/diagrams"
+  }
+}

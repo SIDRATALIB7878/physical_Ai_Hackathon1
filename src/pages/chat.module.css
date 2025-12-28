@@ -1,0 +1,142 @@
+.chatContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.chatHeader {
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.chatHeader h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.5rem;
+  color: #2c3e50;
+}
+
+.chatHeader p {
+  color: #7f8c8d;
+  margin: 0;
+}
+
+.chatMessages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1.5rem;
+  border: 1px solid #e1e8ed;
+  border-radius: 8px;
+  background-color: #f9fbfd;
+  margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.message {
+  max-width: 80%;
+  padding: 0.75rem 1rem;
+  border-radius: 12px;
+  position: relative;
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.userMessage {
+  align-self: flex-end;
+  background-color: #467c85;
+  color: white;
+  border-bottom-right-radius: 4px;
+}
+
+.assistantMessage {
+  align-self: flex-start;
+  background-color: #eef2f5;
+  color: #2c3e50;
+  border-bottom-left-radius: 4px;
+}
+
+.messageContent {
+  line-height: 1.5;
+}
+
+.chatForm {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.chatInput {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: border-color 0.2s;
+}
+
+.chatInput:focus {
+  outline: none;
+  border-color: #467c85;
+  box-shadow: 0 0 0 2px rgba(70, 124, 133, 0.2);
+}
+
+.chatButton {
+  padding: 0.75rem 1.5rem;
+  background-color: #467c85;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.2s;
+}
+
+.chatButton:hover:not(:disabled) {
+  background-color: #3a656d;
+}
+
+.chatButton:disabled {
+  background-color: #bdc3c7;
+  cursor: not-allowed;
+}
+
+.chatFooter {
+  text-align: center;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+  font-size: 0.85rem;
+  color: #7f8c8d;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .chatContainer {
+    padding: 1rem 0.5rem;
+    height: 85vh;
+  }
+  
+  .chatHeader h1 {
+    font-size: 1.5rem;
+  }
+  
+  .message {
+    max-width: 90%;
+  }
+  
+  .chatForm {
+    flex-direction: column;
+  }
+  
+  .chatInput, .chatButton {
+    width: 100%;
+  }
+}

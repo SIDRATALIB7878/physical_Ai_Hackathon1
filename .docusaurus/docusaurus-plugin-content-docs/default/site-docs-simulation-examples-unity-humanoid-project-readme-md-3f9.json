@@ -1,0 +1,26 @@
+{
+  "id": "simulation/examples/unity_humanoid_project/README",
+  "title": "This file serves as a placeholder for a Unity project for humanoid simulation.",
+  "description": "",
+  "source": "@site/docs/simulation/examples/unity_humanoid_project/README.md",
+  "sourceDirName": "simulation/examples/unity_humanoid_project",
+  "slug": "/simulation/examples/unity_humanoid_project/",
+  "permalink": "/docs/simulation/examples/unity_humanoid_project/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/simulation/examples/unity_humanoid_project/README.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Simulation",
+    "permalink": "/docs/category/simulation"
+  },
+  "next": {
+    "title": "Gazebo Simulation Setup",
+    "permalink": "/docs/simulation/gazebo_basics"
+  }
+}

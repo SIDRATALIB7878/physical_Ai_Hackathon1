@@ -1,0 +1,29 @@
+{
+  "id": "intro",
+  "title": "Introduction",
+  "description": "Welcome to this in-depth guide on Physical AI and Humanoid Robotics. This book is crafted to lead you step by step from the core foundations of robotics and artificial intelligence to advanced, real-world humanoid systems powered by Vision-Language-Action (VLA) models.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Foundations: Overview",
+    "permalink": "/docs/foundations/overview"
+  },
+  "next": {
+    "title": "Systems",
+    "permalink": "/docs/category/systems"
+  }
+}

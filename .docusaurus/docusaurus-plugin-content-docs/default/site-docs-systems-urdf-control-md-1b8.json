@@ -1,0 +1,26 @@
+{
+  "id": "systems/urdf_control",
+  "title": "URDF Model Creation and Basics",
+  "description": "This chapter provides detailed instructions on how to create a Unified Robot Description Format (URDF) model for a simple humanoid robot. URDF is an XML format used in ROS (Robot Operating System) to describe robot kinematics, dynamics, and visual properties.",
+  "source": "@site/docs/systems/urdf_control.md",
+  "sourceDirName": "systems",
+  "slug": "/systems/urdf_control",
+  "permalink": "/docs/systems/urdf_control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/systems/urdf_control.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Systems: Overview",
+    "permalink": "/docs/systems/overview"
+  },
+  "next": {
+    "title": "Tutorial - Basics",
+    "permalink": "/docs/category/tutorial---basics"
+  }
+}

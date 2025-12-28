@@ -1,0 +1,26 @@
+{
+  "id": "vision_language_action/whisper_llm",
+  "title": "Whisper and LLMs for Conversational Robotics",
+  "description": "This chapter explores how to integrate state-of-the-art speech-to-text (STT) models like OpenAI Whisper with Large Language Models (LLMs) to create natural and intelligent conversational interfaces for humanoid robots. We will cover the pipeline from spoken command to robot action, focusing on intent understanding and action generation.",
+  "source": "@site/docs/vision_language_action/whisper_llm.md",
+  "sourceDirName": "vision_language_action",
+  "slug": "/vision_language_action/whisper_llm",
+  "permalink": "/docs/vision_language_action/whisper_llm",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/vision_language_action/whisper_llm.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Vision-Language-Action (VLA): Overview",
+    "permalink": "/docs/vision_language_action/overview"
+  },
+  "next": {
+    "title": "Capstone",
+    "permalink": "/docs/category/capstone"
+  }
+}

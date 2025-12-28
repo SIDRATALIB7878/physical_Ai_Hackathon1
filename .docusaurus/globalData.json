@@ -1,0 +1,218 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "foundations/physical_ai",
+          "docs": [
+            {
+              "id": "agent_sdk_docs",
+              "path": "/docs/agent_sdk_docs",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "ai_perception_navigation/isaac_ros_pipelines",
+              "path": "/docs/ai_perception_navigation/isaac_ros_pipelines",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "ai_perception_navigation/isaac_sim_overview",
+              "path": "/docs/ai_perception_navigation/isaac_sim_overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "ai_perception_navigation/overview",
+              "path": "/docs/ai_perception_navigation/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "capstone/autonomous_humanoid",
+              "path": "/docs/capstone/autonomous_humanoid",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "capstone/overview",
+              "path": "/docs/capstone/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "contributing",
+              "path": "/docs/contributing",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "foundations/diagrams",
+              "path": "/docs/foundations/diagrams",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "foundations/overview",
+              "path": "/docs/foundations/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "foundations/physical_ai",
+              "path": "/docs/foundations/physical_ai",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "pipeline-guide",
+              "path": "/docs/pipeline-guide",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "simulation/examples/unity_humanoid_project/README",
+              "path": "/docs/simulation/examples/unity_humanoid_project/",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "simulation/gazebo_basics",
+              "path": "/docs/simulation/gazebo_basics",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "simulation/overview",
+              "path": "/docs/simulation/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "simulation/unity_robotics",
+              "path": "/docs/simulation/unity_robotics",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "systems/overview",
+              "path": "/docs/systems/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "systems/ros2_intro",
+              "path": "/docs/systems/ros2_intro",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "systems/urdf_control",
+              "path": "/docs/systems/urdf_control",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "vision_language_action/multimodal_interaction",
+              "path": "/docs/vision_language_action/multimodal_interaction",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "vision_language_action/overview",
+              "path": "/docs/vision_language_action/overview",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "vision_language_action/whisper_llm",
+              "path": "/docs/vision_language_action/whisper_llm",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/foundations",
+              "path": "/docs/category/foundations",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/systems",
+              "path": "/docs/category/systems",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/simulation",
+              "path": "/docs/category/simulation",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/ai-perception--navigation",
+              "path": "/docs/category/ai-perception--navigation",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/vision-language-action",
+              "path": "/docs/category/vision-language-action",
+              "sidebar": "mainSidebar"
+            },
+            {
+              "id": "/category/capstone",
+              "path": "/docs/category/capstone",
+              "sidebar": "mainSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "mainSidebar": {
+              "link": {
+                "path": "/docs/category/foundations",
+                "label": "Foundations"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

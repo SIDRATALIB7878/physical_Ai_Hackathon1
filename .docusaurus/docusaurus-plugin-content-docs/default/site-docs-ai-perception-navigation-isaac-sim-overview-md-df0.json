@@ -1,0 +1,26 @@
+{
+  "id": "ai_perception_navigation/isaac_sim_overview",
+  "title": "Isaac Sim Overview and Basic Setup",
+  "description": "This chapter introduces NVIDIA Isaac Sim, a powerful robotics simulation platform built on Omniverse. We will cover its installation, basic configuration, environment creation, and robot integration, with a focus on preparing for perception and navigation tasks.",
+  "source": "@site/docs/ai_perception_navigation/isaac_sim_overview.md",
+  "sourceDirName": "ai_perception_navigation",
+  "slug": "/ai_perception_navigation/isaac_sim_overview",
+  "permalink": "/docs/ai_perception_navigation/isaac_sim_overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/docs/ai_perception_navigation/isaac_sim_overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "mainSidebar",
+  "previous": {
+    "title": "Isaac ROS Pipelines for Perception and Navigation",
+    "permalink": "/docs/ai_perception_navigation/isaac_ros_pipelines"
+  },
+  "next": {
+    "title": "AI Perception & Navigation: Overview",
+    "permalink": "/docs/ai_perception_navigation/overview"
+  }
+}
