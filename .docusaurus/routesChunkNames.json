@@ -1,231 +1,188 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
   "/chat-07b": {
-    "__comp": "__comp---site-src-pages-chat-jse-82-5e8",
+    "__comp": "e8276818",
     "__context": {
-      "plugin": "plugin---chata-74-e74"
+      "plugin": "a7456010"
     },
-    "config": "config---chat-5-e-9-b86"
+    "config": "5e9f5e1a"
   },
   "/markdown-page-3d7": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---chata-74-e74"
+      "plugin": "a7456010"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
-  "/docs-3d1": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+  "/docs-aa8": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docsaba-d7c"
+      "plugin": "aba21aa0"
     }
   },
-  "/docs-1f9": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
+  "/docs-cd1": {
+    "__comp": "a7bd4aaa",
+    "__props": "0058b4c6"
   },
-  "/docs-665": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/docs-295": {
+    "__comp": "a94703ab"
   },
-  "/docs/agent_sdk_docs-bb8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-agent-sdk-docs-617-4e9"
+  "/docs/agent_sdk_docs-0ac": {
+    "__comp": "17896441",
+    "content": "61706e26"
   },
-  "/docs/ai_perception_navigation/isaac_ros_pipelines-9a3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ai-perception-navigation-isaac-ros-pipelinesdc-7-489"
+  "/docs/ai_perception_navigation/isaac_ros_pipelines-4a3": {
+    "__comp": "17896441",
+    "content": "dc7fd17e"
   },
-  "/docs/ai_perception_navigation/isaac_sim_overview-3f4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ai-perception-navigation-isaac-sim-overviewdf-0-ca8"
+  "/docs/ai_perception_navigation/isaac_sim_overview-73b": {
+    "__comp": "17896441",
+    "content": "df09f073"
   },
-  "/docs/ai_perception_navigation/overview-eff": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-ai-perception-navigation-overview-8-a-5-976"
+  "/docs/ai_perception_navigation/overview-79e": {
+    "__comp": "17896441",
+    "content": "8a50b5b5"
   },
-  "/docs/capstone/autonomous_humanoid-6c8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-capstone-autonomous-humanoid-91-f-010"
+  "/docs/capstone/autonomous_humanoid-acd": {
+    "__comp": "17896441",
+    "content": "91f78c6d"
   },
-  "/docs/capstone/overview-b54": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-capstone-overview-410-70b"
+  "/docs/capstone/overview-c7c": {
+    "__comp": "17896441",
+    "content": "4106a696"
   },
   "/docs/category/ai-perception--navigation-cc0": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-ai-perception-navigationf-26-e16"
+    "__comp": "14eb3368",
+    "__props": "f2626a95"
   },
   "/docs/category/capstone-f53": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-capstone-51-d-728"
+    "__comp": "14eb3368",
+    "__props": "51db980a"
   },
   "/docs/category/foundations-041": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-foundationsd-46-18c"
+    "__comp": "14eb3368",
+    "__props": "d46aa8ff"
   },
   "/docs/category/simulation-d1a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-simulation-0-b-3-dae"
+    "__comp": "14eb3368",
+    "__props": "0b34e8c4"
   },
   "/docs/category/systems-548": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-systemsc-69-007"
+    "__comp": "14eb3368",
+    "__props": "c69442d1"
   },
   "/docs/category/tutorial---basics-e48": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-basicsc-8-a-e51"
+    "__comp": "14eb3368",
+    "__props": "c8a4e95a"
   },
   "/docs/category/tutorial---extras-d32": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-tutorial-extras-6-bb-a82"
+    "__comp": "14eb3368",
+    "__props": "6bb166bd"
   },
   "/docs/category/vision-language-action-7ea": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-vision-language-action-2-e-3-9c5"
+    "__comp": "14eb3368",
+    "__props": "2e3294b0"
   },
-  "/docs/contributing-b08": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-contributing-4-d-5-478"
+  "/docs/contributing-7ff": {
+    "__comp": "17896441",
+    "content": "4d54d076"
   },
-  "/docs/foundations/diagrams-f60": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-foundations-diagrams-07-b-a0e"
+  "/docs/foundations/diagrams-a7d": {
+    "__comp": "17896441",
+    "content": "07b46ccd"
   },
-  "/docs/foundations/overview-0f3": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-foundations-overview-07-b-fe5"
+  "/docs/foundations/overview-6bc": {
+    "__comp": "17896441",
+    "content": "07bd0345"
   },
-  "/docs/foundations/physical_ai-297": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-foundations-physical-ai-22-f-22b"
+  "/docs/foundations/physical_ai-a23": {
+    "__comp": "17896441",
+    "content": "22fe0085"
   },
-  "/docs/intro-1d7": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+  "/docs/intro-de6": {
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
-  "/docs/pipeline-guide-e7e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-pipeline-guidebe-1-8d5"
+  "/docs/pipeline-guide-1b6": {
+    "__comp": "17896441",
+    "content": "be1d0f7a"
   },
-  "/docs/simulation/examples/unity_humanoid_project/-aaf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-simulation-examples-unity-humanoid-project-3-f-9-b8a"
+  "/docs/simulation/examples/unity_humanoid_project/-754": {
+    "__comp": "17896441",
+    "content": "3f9355d7"
   },
-  "/docs/simulation/gazebo_basics-86b": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-simulation-gazebo-basics-31-f-d85"
+  "/docs/simulation/gazebo_basics-bba": {
+    "__comp": "17896441",
+    "content": "31f305be"
   },
-  "/docs/simulation/overview-920": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-simulation-overview-4-f-5-85e"
+  "/docs/simulation/overview-931": {
+    "__comp": "17896441",
+    "content": "4f5b0922"
   },
-  "/docs/simulation/unity_robotics-864": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-simulation-unity-robotics-7-ab-1ba"
+  "/docs/simulation/unity_robotics-03b": {
+    "__comp": "17896441",
+    "content": "7ab3c740"
   },
-  "/docs/systems/overview-f76": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-systems-overview-5-b-9-859"
+  "/docs/systems/overview-8cb": {
+    "__comp": "17896441",
+    "content": "5b9e146f"
   },
-  "/docs/systems/ros2_intro-eae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-systems-ros-2-introe-2-c-a41"
+  "/docs/systems/ros2_intro-92c": {
+    "__comp": "17896441",
+    "content": "e2cc815c"
   },
-  "/docs/systems/urdf_control-57e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-systems-urdf-control-1-b-8-bd6"
+  "/docs/systems/urdf_control-403": {
+    "__comp": "17896441",
+    "content": "1b8149ed"
   },
-  "/docs/tutorial-basics/congratulations-e9e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+  "/docs/tutorial-basics/congratulations-99a": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
-  "/docs/tutorial-basics/create-a-blog-post-d61": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
+  "/docs/tutorial-basics/create-a-blog-post-85c": {
+    "__comp": "17896441",
+    "content": "533a09ca"
   },
-  "/docs/tutorial-basics/create-a-document-590": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
+  "/docs/tutorial-basics/create-a-document-d2f": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
   },
-  "/docs/tutorial-basics/create-a-page-afd": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
+  "/docs/tutorial-basics/create-a-page-dd1": {
+    "__comp": "17896441",
+    "content": "5c868d36"
   },
-  "/docs/tutorial-basics/deploy-your-site-8b9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+  "/docs/tutorial-basics/deploy-your-site-21b": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
   },
-  "/docs/tutorial-basics/markdown-features-acf": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
+  "/docs/tutorial-basics/markdown-features-e72": {
+    "__comp": "17896441",
+    "content": "18c41134"
   },
-  "/docs/tutorial-extras/manage-docs-versions-414": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+  "/docs/tutorial-extras/manage-docs-versions-bdf": {
+    "__comp": "17896441",
+    "content": "dff1c289"
   },
-  "/docs/tutorial-extras/translate-your-site-b1f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+  "/docs/tutorial-extras/translate-your-site-6c3": {
+    "__comp": "17896441",
+    "content": "e44a2883"
   },
-  "/docs/vision_language_action/multimodal_interaction-1c2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vision-language-action-multimodal-interaction-3-ba-72f"
+  "/docs/vision_language_action/multimodal_interaction-3c8": {
+    "__comp": "17896441",
+    "content": "3ba4c5bc"
   },
-  "/docs/vision_language_action/overview-a80": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vision-language-action-overview-3-bb-2f8"
+  "/docs/vision_language_action/overview-bff": {
+    "__comp": "17896441",
+    "content": "3bbf882d"
   },
-  "/docs/vision_language_action/whisper_llm-9be": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-vision-language-action-whisper-llmcbb-3db"
+  "/docs/vision_language_action/whisper_llm-5a0": {
+    "__comp": "17896441",
+    "content": "cbbd8e62"
   },
   "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---chata-74-e74"
+      "plugin": "a7456010"
     },
-    "config": "config---chat-5-e-9-b86"
+    "config": "5e9f5e1a"
   }
 }

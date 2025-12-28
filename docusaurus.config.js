@@ -7,7 +7,7 @@ const config = {
   tagline: 'Physical AI & Humanoid Robotics — From Simulation to Real Systems',
   favicon: 'img/favicon.ico',
 
-  url: 'https://humanoid-robotics-book-phi.vercel.app',
+  url: 'physical-ai-hackathon1-stq4.vercel.app',
   baseUrl: '/',
 
   organizationName: 'SIDRATALIB7878',
@@ -29,7 +29,8 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: 'docs',
           editUrl:
-            'https://github.com/SIDRATALIB7878/humanoid-robotics-book/tree/main/',
+            'https://github.com/SIDRATALIB7878',
+          
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -97,7 +98,7 @@ const config = {
           items: [
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/SIDRATALIB7878/humanoid-robotics-book',
+              href: 'https://github.com/SIDRATALIB7878/physical_Ai_Hackathon1',
             },
             {
               label: 'Author on LinkedIn',
@@ -124,7 +125,7 @@ const config = {
     announcementBar: {
       id: 'github-star',
       content:
-        '⭐ Support this project by starring it on <a target="_blank" rel="noopener noreferrer" href="https://github.com/SIDRATALIB7878/humanoid-robotics-book">GitHub</a>',
+        '⭐ Support this project by starring it on <a target="_blank" rel="noopener noreferrer" href="https://github.com/SIDRATALIB7878/physical_Ai_Hackathon1">GitHub</a>',
       backgroundColor: '#467c85ff',
       textColor: '#ffffff',
       isCloseable: true,
