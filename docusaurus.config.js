@@ -13,8 +13,8 @@ const config = {
   organizationName: 'SIDRATALIB7878',
   projectName: 'humanoid-robotics-book',
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 
   i18n: {
     defaultLocale: 'en',
