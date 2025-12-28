@@ -7,7 +7,7 @@ const config = {
   tagline: 'Physical AI & Humanoid Robotics — From Simulation to Real Systems',
   favicon: 'img/favicon.ico',
 
-  url: 'physical-ai-hackathon1-stq4.vercel.app',
+  url: 'http://physical-ai-hackathon1-stq4.vercel.app',
   baseUrl: '/',
 
   organizationName: 'SIDRATALIB7878',
